@@ -1,7 +1,5 @@
 # iyzipay-ruby
 
-[![Build Status](https://travis-ci.org/iyzico/iyzipay-ruby.svg?branch=master)](https://travis-ci.org/iyzico/iyzipay-ruby)
-
 You can sign up for an iyzico account at https://iyzico.com
 
 # Requirements
